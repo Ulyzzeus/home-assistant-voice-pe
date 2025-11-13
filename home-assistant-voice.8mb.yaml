@@ -12,7 +12,7 @@ esp32:
 
 update:
   - id: !extend update_http_request
-    source: https://firmware.esphome.io/home-assistant-voice-pe/ha-voice-8mb/manifest.json
+    source: https://firmware.esphome.io/home-assistant-voice-pe/ha-voice-8mb/25.3.1/manifest.json
 
 dashboard_import:
-  package_import_url: github://esphome/home-assistant-voice-pe/home-assistant-voice.8mb.yaml
+  package_import_url: github://Ulyzzeus/home-assistant-voice-pe/home-assistant-voice.8mb.yaml
